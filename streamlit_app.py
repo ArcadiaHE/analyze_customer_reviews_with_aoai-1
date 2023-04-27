@@ -52,7 +52,7 @@ def analyze_reviews(df):
                     engine="text-davinci-003",
                     prompt="根据评论内容，撰写回复消息：" \
                     + review_content + "\n\n回复消息：",
-                    max_tokens=100)
+                    max_tokens=120)
                 reply_message = response4['choices'][0]['text'].replace("\n","")
                 st.write("回复消息草稿生成完成："+reply_message)
 
