@@ -1,5 +1,5 @@
 {
-    "appService.defaultWebAppToDeploy": "/subscriptions/6fa8eb6f-e2f1-493f-b01d-d47253728c9f/resourceGroups/myResourceGroup1110/providers/Microsoft.Web/sites/analyze-customer-reviews-with-aoai0427",
+    "appService.defaultWebAppToDeploy": "/subscriptions/bb424982-2d89-45d6-9b23-f3d5467f4ce0/resourceGroups/Haas-AAA-Global/providers/Microsoft.Web/sites/web-aoai-haas",
     "appService.deploySubpath": ".",
     "appService.zipIgnorePattern": [
         "__pycache__{,/**}",
